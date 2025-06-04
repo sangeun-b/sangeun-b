@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://github.com/sangeun-b/sangeun-b/blob/main/data/profile_img2.png" />
+</div>
+
 <h1 align="center">👋 Hi, I'm 백상은 (STELLA)</h1>
 <p align="center">
   💻 Backend Developer | 🌱 Passionate about Java & Spring Boot  
@@ -46,8 +50,9 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangeun-b&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun-b&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sangeun-b&show_icons=true&theme=github_dark" style="max-width: 100%;"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=sangeun-b&theme=github-dark" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun-b&layout=compact&theme=github_dark" style="max-width: 100%;" />
 </p>
 
 
