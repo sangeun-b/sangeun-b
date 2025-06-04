@@ -31,17 +31,25 @@ Here are some ideas to get you started:
 - 📚 Constantly improving my skills in **Git**, **REST API**, and **System Design**
 - 💬 Ask me about backend architecture, project structuring, or anything dev-related!
 - ✉️ Contact me: **stella.se.baek@gmail.com**
-
+  
 ---
-
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> </p>
 </p>
 
 ---
@@ -54,15 +62,24 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun-b&layout=compact&theme=github_dark" style="max-width: 100%;" />
 </p>
 
-
 ---
-
-## ✨ Quote I Live By
-
-> “Stay curious. Keep learning. And never stop improving.”  
-
----
-
 ## 📌 Projects
 
 > 💄 [OurDressingTable](https://github.com/ourdressingtable/our-dressingtable-v1/tree/main/backend) 
+
+<!-- ---
+
+## 🌈 Little Extras
+
+ <p align="center">
+<!--   <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="150"/> -->
+<!--   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="150"/> -->
+<!--   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150"/> 
+</p>-->
+
+---
+
+<div align="center">
+  🎀 Thanks for stopping by! 🎀  
+</div>
+
