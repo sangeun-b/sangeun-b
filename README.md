@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<!--   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <br/>
@@ -65,8 +65,21 @@ Here are some ideas to get you started:
 ---
 ## 📌 Projects
 
-> 💄 [OurDressingTable](https://github.com/ourdressingtable/our-dressingtable-v1/tree/main/backend) 
+> 💄 [OurDressingTable](https://github.com/ourdressingtable/our-dressingtable-v1/tree/main/backend)  
+> Spring Boot 기반 화장품 커뮤니티 플랫폼입니다.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<!--   <img src="https://img.shields.io/badge/QueryDSL-000000?style=for-the-badge"/> -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+</p>
 <!-- ---
 
 ## 🌈 Little Extras
