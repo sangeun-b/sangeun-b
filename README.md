@@ -1,4 +1,4 @@
-
+    
 <!--
 **sangeun-b/sangeun-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <img src="https://github.com/sangeun-b/sangeun-b/blob/main/data/profile_img2.png" />
 </div>
