@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-<!--   <img src="https://img.shields.io/badge/QueryDSL-000000?style=for-the-badge"/> -->
+  <img src="https://img.shields.io/badge/QueryDSL-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
