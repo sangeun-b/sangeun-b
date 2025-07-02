@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 - 💼 Currently learning and building with **Spring Boot**, **JPA**, and **SQL**
 - 🔍 Interested in writing clean, maintainable backend code
-- 📚 Constantly improving my skills in **Git**, **REST API**, and **System Design**
-- 💬 Ask me about backend architecture, project structuring, or anything dev-related!
 - ✉️ Contact me: **stella.se.baek@gmail.com**
   
 ---
