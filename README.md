@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📚 Constantly improving my skills in **Git**, **REST API**, and **System Design**
+- 💬 Ask me about backend architecture, project structuring, or anything dev-related!
 -->
 
 <div align="center">
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
 ---
 
 ## 🧑‍💻 About Me
-
 - 💼 Currently learning and building with **Spring Boot**, **JPA**, and **SQL**
 - 🔍 Interested in writing clean, maintainable backend code
 - ✉️ Contact me: **stella.se.baek@gmail.com**
