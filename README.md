@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ## 📌 Projects
 
 > 💄 [OurDressingTable](https://github.com/ourdressingtable/our-dressingtable-v1/tree/main/backend)  
-> 화장품 관리 플랫폼입니다.
+> OurDressingTable은 화장품을 보다 체계적으로 관리하고, 사용자 간의 소통을 돕는 화장품 관리 & 커뮤니티 서비스입니다.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
